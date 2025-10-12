@@ -1,1 +1,1 @@
-# LMS-SITE
+# lms-aws-capstone
